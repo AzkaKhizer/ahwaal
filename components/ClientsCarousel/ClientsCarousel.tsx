@@ -13,7 +13,7 @@ const clients = [
 
 export default function ClientsCarousel() {
   return (
-    <section className={styles.section}>
+    <section id="clients" className={styles.section}>
       <div className={styles.container}>
         <h2 className={styles.title}>Trusted by Leading Organizations</h2>
         <p className={styles.subtitle}>

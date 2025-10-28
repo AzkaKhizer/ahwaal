@@ -27,7 +27,7 @@ const features = [
 
 export default function WhyUs() {
   return (
-    <section className={styles.section}>
+    <section id="solutions" className={styles.section}>
       <div className={styles.container}>
         <h2 className={styles.title}>Why Choose VerifyGuard</h2>
         <p className={styles.subtitle}>
