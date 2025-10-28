@@ -1,0 +1,62 @@
+Build a fully responsive “corporate services” website using Next.js (with custom CSS, no Tailwind) for a background-screening / verification company. The site structure and sections should mimic the style of Check Xperts but use unique brand colours, imagery, and copy.
+
+Requirements:
+
+Use Next.js pages or the app directory (whichever you prefer) with React components.
+
+Include a header (navbar) with company logo, menu items: About | Services (dropdown) | Solutions | Clients | Blog | Contact.
+
+Hero section: full-width background image or gradient, heading like “Make Informed Decisions”, subheading “Ensuring peace of mind & safety with our comprehensive verification & screening solutions for your business.” – mimic the tone. Add call-to-action buttons like “Start Your Screening Today” and “Explore Corporate Solutions”.
+
+Clients / Logo strip section: show a horizontal carousel or grid of client logos (use placeholders).
+
+“How It Works” section: explain steps (e.g., Seamless Integration, Efficient Automated Screening, Immediate Results Delivery) with icons and short descriptions.
+
+“Services” grid section: list services like Education Check, Employment Check, Criminal Check, Identity Check, Site Visit Check, Drug Test, Global Sanctions, Credit Check, Reference Check, Social Media Check, Vendor Check. Each with icon, title, short description, and “Learn more →”.
+
+“Why Us” or “Why [YourBrand]” section: highlight key differentiators such as Most Comprehensive Verification, International Coverage, 1000+ Industry Partners, Data Security – emphasise trust, global scale, GDPR/ISO certifications etc.
+
+“Security / Data Privacy” section: say something about secure info handling, ISO 27001 or similar, centralized secure platform, reassure visitors.
+
+Testimonials section: slider or grid of client quotes with image/name/title.
+
+Blog preview / Latest Blog section: show 2-3 blog cards with image, title, summary, date.
+
+Call-to-action (CTA) before footer: e.g., “Schedule a call with an expert” + a simple contact form (Name, Email, Mobile, Subject, Message + Send button).
+
+Footer: include contact info (phone, email, address), social links, legal links (Terms, Privacy), sitemap links (About, Services, Solutions, Blog, Contact). Make sure footer is visible without awkward spacing — not too far down or hidden.
+
+Responsiveness: The site should look perfect on desktop (as your other sites) and adjust nicely to tablet/mobile (stacking content as needed). No major layout or animation changes — keep heroes, grids and sections the same order, just make them scale properly.
+
+Animation & pseudo-elements: Use subtle CSS animations (for example fade-in on scroll) and maybe a ::before pseudo-element on the logo to create a small effect (as you already use for your portfolio).
+
+Use custom CSS (in e.g., modules or styled-JSX) rather than Tailwind. Write clean scalable styles: variables for colours, consistent spacing, responsive breakpoints.
+
+Use Next.js built-in Image component (or similar) for optimal image loading. Use semantic HTML (header, nav, main, section, footer).
+
+Accessibility & SEO: Use proper alt tags, headings in order (h1, h2…), meta tags in head (title, description).
+
+Add a simple CMS or data source for services and blog (you could stub JSON files or import from a headless CMS later) so that the services grid and blog cards are dynamic rather than hard-coded.
+
+Make the code modular: split into components (Navbar, Hero, ServicesGrid, ClientsCarousel, WhyUs, Testimonials, BlogPreview, CTAContact, Footer). Each component has its own CSS module.
+
+Optionally add dark mode toggle (since you like dark mode in other apps) and save preference (localStorage). But this is extra.
+
+Overall look & feel:
+Modern, professional, tech-savvy. Colours: choose a primary brand colour (e.g., deep blue or teal), accent colour (light blue or green) and neutral greys. Use clean sans-serif fonts. Plenty of white space. Hero image maybe showing business professionals, verification, technology. Icons are flat/line style.
+
+Deliverables:
+
+A Next.js project folder with pages (or app) directory and components.
+
+CSS modules with custom styles.
+
+A readme with instructions to run locally (npm install && npm run dev).
+
+A placeholder .env file or config for future CMS/data integration.
+
+Ensure site is responsive and passes basic Lighthouse performance/SEO checks.
+
+Note: Do NOT copy text or exact images from Check Xperts — only use the structure and user-flow as inspiration. Replace copy with your own brand’s voice and images with royalty-free or your own visuals.
+
+Start building now: scaffold nextjs, create layout and global styles, build Navbar, Hero, etc.
