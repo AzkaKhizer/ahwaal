@@ -1,0 +1,68 @@
+[
+  {
+    "id": "education-check",
+    "title": "Education Check",
+    "description": "Verify academic credentials, degrees, and certifications to ensure candidates have the qualifications they claim.",
+    "icon": "🎓"
+  },
+  {
+    "id": "employment-check",
+    "title": "Employment Check",
+    "description": "Comprehensive verification of work history, job titles, responsibilities, and employment dates.",
+    "icon": "💼"
+  },
+  {
+    "id": "criminal-check",
+    "title": "Criminal Check",
+    "description": "Thorough background screening to identify any criminal records or legal issues.",
+    "icon": "🔒"
+  },
+  {
+    "id": "identity-check",
+    "title": "Identity Check",
+    "description": "Validate identity documents and ensure the person is who they claim to be.",
+    "icon": "🆔"
+  },
+  {
+    "id": "site-visit-check",
+    "title": "Site Visit Check",
+    "description": "Physical verification of addresses, offices, and locations for complete authenticity.",
+    "icon": "📍"
+  },
+  {
+    "id": "drug-test",
+    "title": "Drug Test",
+    "description": "Professional drug screening services to maintain a safe and productive workplace.",
+    "icon": "🧪"
+  },
+  {
+    "id": "global-sanctions",
+    "title": "Global Sanctions",
+    "description": "Check against international sanctions lists, PEP databases, and watchlists.",
+    "icon": "🌐"
+  },
+  {
+    "id": "credit-check",
+    "title": "Credit Check",
+    "description": "Financial background verification including credit history and financial stability assessment.",
+    "icon": "💳"
+  },
+  {
+    "id": "reference-check",
+    "title": "Reference Check",
+    "description": "Contact and verify professional references to validate candidate reputation and performance.",
+    "icon": "✅"
+  },
+  {
+    "id": "social-media-check",
+    "title": "Social Media Check",
+    "description": "Analyze digital footprint and social media presence for reputation risk assessment.",
+    "icon": "📱"
+  },
+  {
+    "id": "vendor-check",
+    "title": "Vendor Check",
+    "description": "Comprehensive due diligence on vendors, suppliers, and business partners.",
+    "icon": "🤝"
+  }
+]
