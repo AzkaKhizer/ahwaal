@@ -40,21 +40,22 @@ export default function CTAContact() {
                 <span className={styles.icon}>📞</span>
                 <div>
                   <div className={styles.infoLabel}>Phone</div>
-                  <div className={styles.infoValue}>+1 (555) 123-4567</div>
+                  <div className={styles.infoValue}>0800-11222</div>
+                  <div className={styles.infoValue}>0332-6000008</div>
                 </div>
               </div>
               <div className={styles.infoItem}>
                 <span className={styles.icon}>📧</span>
                 <div>
                   <div className={styles.infoLabel}>Email</div>
-                  <div className={styles.infoValue}>contact@verifyguard.com</div>
+                  <div className={styles.infoValue}>info@ahwaal.pk</div>
                 </div>
               </div>
               <div className={styles.infoItem}>
                 <span className={styles.icon}>⏰</span>
                 <div>
-                  <div className={styles.infoLabel}>Business Hours</div>
-                  <div className={styles.infoValue}>Mon-Fri: 9:00 AM - 6:00 PM</div>
+                  <div className={styles.infoLabel}>Office Address</div>
+                  <div className={styles.infoValue}>Office No: B-2/R9, Plot No: ST-04 Al-Burhan Circle Block E, North Nazimabad - Karachi</div>
                 </div>
               </div>
             </div>

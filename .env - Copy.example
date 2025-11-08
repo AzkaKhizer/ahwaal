@@ -1,0 +1,10 @@
+# Future CMS Integration
+# Uncomment and add your keys when integrating with a headless CMS
+# CONTENTFUL_SPACE_ID=
+# CONTENTFUL_ACCESS_TOKEN=
+# SANITY_PROJECT_ID=
+# SANITY_DATASET=
+
+# Contact Form (future)
+# SENDGRID_API_KEY=
+# CONTACT_EMAIL=

@@ -4,10 +4,10 @@
   left: 0;
   width: 100%;
   z-index: 1000;
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: white;
   backdrop-filter: blur(10px);
   transition: all 0.3s ease;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  
 }
 
 .header.scrolled {
@@ -15,9 +15,7 @@
   box-shadow: var(--shadow-md);
 }
 
-.navbar {
-  padding: 1rem 0;
-}
+
 
 .container {
   max-width: var(--max-width);
@@ -193,3 +191,21 @@
     text-align: center;
   }
 }
+
+/* Remove all background or spacing from the logo area */
+.logo {
+  background: none !important;
+  background-color: transparent !important;
+  padding: 0 !important;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+}
+
+/* Make sure the logo image itself is transparent */
+.logoImage {
+  background: transparent !important;
+  display: block;
+  object-fit: contain;
+}
+

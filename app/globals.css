@@ -1,10 +1,10 @@
 :root {
-  --primary-color: #0A4B78;
-  --primary-dark: #083859;
-  --primary-light: #0D5E99;
-  --accent-color: #00B4D8;
-  --accent-light: #90E0EF;
-  --success-color: #06D6A0;
+  --primary-color: #ff7a00;      /* Main orange tone */
+  --primary-dark: #e86a00;       /* Darker orange for hover / text contrast */
+  --primary-light: #ff9a3d;      /* Lighter gradient shade */
+  --accent-color: #fcb045;       /* Accent / highlight tone */
+  --accent-light: #ffe0b2;       /* Soft background tint */
+  --success-color: #4CAF50;
   --text-dark: #1A1A1A;
   --text-medium: #4A4A4A;
   --text-light: #7A7A7A;

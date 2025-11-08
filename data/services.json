@@ -41,12 +41,7 @@
     "description": "Check against international sanctions lists, PEP databases, and watchlists.",
     "icon": "🌐"
   },
-  {
-    "id": "credit-check",
-    "title": "Credit Check",
-    "description": "Financial background verification including credit history and financial stability assessment.",
-    "icon": "💳"
-  },
+  
   {
     "id": "reference-check",
     "title": "Reference Check",
