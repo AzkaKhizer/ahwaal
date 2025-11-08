@@ -1,4 +1,4 @@
-# VerifyGuard - Corporate Background Screening Website
+# Ahwaal - Corporate Background Screening Website
 
 A fully responsive corporate services website built with Next.js and custom CSS modules for a background-screening and verification company.
 
