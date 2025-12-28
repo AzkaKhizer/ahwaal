@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "The Importance of Background Screening in Modern Hiring",
+    "summary": "Discover why comprehensive background checks have become essential for businesses to make informed hiring decisions and protect their workforce.",
+    "date": "2025-10-15",
+    "image": "images/blog/blog-1.jpg",
+    "category": "Hiring Best Practices"
+  },
+  {
+    "id": "2",
+    "title": "Understanding Global Compliance Standards in Verification",
+    "summary": "Navigate the complex landscape of international compliance requirements including GDPR, ISO 27001, and regional data protection laws.",
+    "date": "2025-10-10",
+    "image": "images/blog/blog-2.jpg",
+    "category": "Compliance"
+  },
+  {
+    "id": "3",
+    "title": "How AI is Transforming Background Verification",
+    "summary": "Explore the cutting-edge technologies revolutionizing the screening industry, from automated document verification to predictive analytics.",
+    "date": "2025-10-05",
+    "image": "images/blog/blog-3.jpg",
+    "category": "Technology"
+  }
+]
