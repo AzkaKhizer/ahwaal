@@ -123,33 +123,7 @@
         </div>
     </section>
 
-    <!-- Team -->
-    <section class="section">
-        <div class="container">
-            <h2 style="text-align: center; margin-bottom: 1rem;">Our Leadership Team</h2>
-            <p style="text-align: center; color: var(--text-light); margin-bottom: 3rem;">Experienced professionals dedicated to your success</p>
-            <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem;">
-                <div style="text-align: center; padding: 2rem;">
-                    <div style="width: 150px; height: 150px; background: linear-gradient(135deg, var(--primary-color), var(--accent-color)); border-radius: 50%; margin: 0 auto 1.5rem; display: flex; align-items: center; justify-content: center; font-size: 3rem;">👤</div>
-                    <h4>Muhammad Ahmed</h4>
-                    <p style="color: var(--primary-color); margin-bottom: 0.5rem;">Chief Executive Officer</p>
-                    <p style="color: var(--text-medium); font-size: 0.9rem;">20+ years in risk management and corporate governance</p>
-                </div>
-                <div style="text-align: center; padding: 2rem;">
-                    <div style="width: 150px; height: 150px; background: linear-gradient(135deg, var(--primary-color), var(--accent-color)); border-radius: 50%; margin: 0 auto 1.5rem; display: flex; align-items: center; justify-content: center; font-size: 3rem;">👤</div>
-                    <h4>Fatima Khan</h4>
-                    <p style="color: var(--primary-color); margin-bottom: 0.5rem;">Director of Operations</p>
-                    <p style="color: var(--text-medium); font-size: 0.9rem;">Expert in process optimization and quality assurance</p>
-                </div>
-                <div style="text-align: center; padding: 2rem;">
-                    <div style="width: 150px; height: 150px; background: linear-gradient(135deg, var(--primary-color), var(--accent-color)); border-radius: 50%; margin: 0 auto 1.5rem; display: flex; align-items: center; justify-content: center; font-size: 3rem;">👤</div>
-                    <h4>Ali Hassan</h4>
-                    <p style="color: var(--primary-color); margin-bottom: 0.5rem;">Head of Technology</p>
-                    <p style="color: var(--text-medium); font-size: 0.9rem;">Leading our digital transformation initiatives</p>
-                </div>
-            </div>
-        </div>
-    </section>
+   
 
     <!-- CTA -->
     <section style="background: linear-gradient(135deg, var(--primary-color), var(--accent-color)); padding: 60px 0; text-align: center;">

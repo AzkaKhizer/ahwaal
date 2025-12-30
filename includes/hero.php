@@ -3,7 +3,7 @@
     <div class="hero-content">
         <div class="container">
             <h1 class="hero-title">
-                Make Informed Decisions
+                Build Trust With Smart Verification
             </h1>
             <p class="hero-subtitle">
                 Ensuring peace of mind & safety with our comprehensive verification & screening solutions for your business.
