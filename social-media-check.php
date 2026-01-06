@@ -20,7 +20,7 @@
         <div class="container">
             <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 4rem;">
                 <div>
-                    <h2 style="margin-bottom: 1.5rem;">Digital Reputation Matters</h2>
+                    <h2 style="margin-bottom: 1.5rem; margin-top: 1.5rem;">Digital Reputation Matters</h2>
                     <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
                         A candidate's online presence can reveal aspects of their character that traditional background checks might miss. Social media screening helps identify potential red flags such as discriminatory behavior, unprofessional conduct, or activities that could pose risks to your organization.
                     </p>

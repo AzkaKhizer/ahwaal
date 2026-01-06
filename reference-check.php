@@ -20,7 +20,7 @@
         <div class="container">
             <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 4rem;">
                 <div>
-                    <h2 style="margin-bottom: 1.5rem;">Get Real Insights About Candidates</h2>
+                    <h2 style="margin-bottom: 1.5rem; margin-top: 1.5rem;">Get Real Insights About Candidates</h2>
                     <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
                         While resumes and interviews provide valuable information, they only tell part of the story. Reference checks give you insights into a candidate's actual work performance, interpersonal skills, and professional conduct that you can't get from any other source.
                     </p>

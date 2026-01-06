@@ -17,7 +17,7 @@
         <div class="container">
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: center;">
                 <div>
-                    <h2 style="color: var(--primary-color); margin-bottom: 1.5rem;">Our Story</h2>
+                    <h2 style="color: var(--primary-color); margin-bottom: 1.5rem; margin-top: 1.5rem;">Our Story</h2>
                     <p>
                         Ahwaal Private Limited was founded with a vision to transform the background verification industry in Pakistan. We recognized the critical need for reliable, comprehensive, and efficient screening services that businesses could trust.
                     </p>

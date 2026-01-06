@@ -20,7 +20,7 @@
         <div class="container">
             <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 4rem;">
                 <div>
-                    <h2 style="margin-bottom: 1.5rem;">Know Your Business Partners</h2>
+                    <h2 style="margin-bottom: 1.5rem; margin-top: 1.5rem;">Know Your Business Partners</h2>
                     <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
                         Third-party risks can significantly impact your business. Partnering with unreliable vendors can lead to supply chain disruptions, quality issues, financial losses, and reputational damage.
                     </p>

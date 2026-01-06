@@ -20,7 +20,7 @@
         <div class="container">
             <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 4rem;">
                 <div>
-                    <h2 style="margin-bottom: 1.5rem;">Why Employment Verification Matters</h2>
+                    <h2 style="margin-bottom: 1.5rem; margin-top: 1.5rem;">Why Employment Verification Matters</h2>
                     <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
                         Employment history is one of the most commonly falsified sections of a resume. Candidates may exaggerate job titles, extend employment dates to cover gaps, inflate responsibilities, or even fabricate entire positions at companies they never worked for.
                     </p>

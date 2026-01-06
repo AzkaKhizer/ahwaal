@@ -20,7 +20,7 @@
         <div class="container">
             <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 4rem;">
                 <div>
-                    <h2 style="margin-bottom: 1.5rem;">Why Education Verification Matters</h2>
+                    <h2 style="margin-bottom: 1.5rem; margin-top: 1.5rem;">Why Education Verification Matters</h2>
                     <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
                         In today's competitive job market, education credentials are often the deciding factor in hiring decisions. Unfortunately, resume fraud is increasingly common, with studies showing that up to 30% of resumes contain some form of educational misrepresentation.
                     </p>

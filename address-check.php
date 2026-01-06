@@ -20,7 +20,7 @@
         <div class="container">
             <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 4rem;">
                 <div>
-                    <h2 style="margin-bottom: 1.5rem;">On-Ground Verification</h2>
+                    <h2 style="margin-bottom: 1.5rem; margin-top: 1.5rem;">On-Ground Verification</h2>
                     <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
                         Address verification is crucial for confirming that candidates actually reside where they claim. This verification can reveal important information about stability, credibility, and sometimes uncover discrepancies that other checks might miss.
                     </p>

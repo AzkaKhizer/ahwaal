@@ -20,7 +20,7 @@
         <div class="container">
             <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 4rem;">
                 <div>
-                    <h2 style="margin-bottom: 1.5rem;">Stay Compliant with Global Regulations</h2>
+                    <h2 style="margin-bottom: 1.5rem; margin-top: 1.5rem;">Stay Compliant with Global Regulations</h2>
                     <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
                         In today's interconnected world, businesses must ensure they don't inadvertently engage with sanctioned individuals, politically exposed persons (PEPs), or those on terrorism watchlists. Failure to comply can result in severe penalties, reputational damage, and legal consequences.
                     </p>
