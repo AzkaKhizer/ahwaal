@@ -246,7 +246,7 @@ function saveContactToFile($name, $email, $mobile, $subject, $message) {
     <div class="container">
         <div class="contact-content">
             <div class="text-content">
-                <h2 class="contact-title">Schedule a Call with an Expert</h2>
+                <h2 class="contact-title">Schedule a Call with<br><span>an Expert</span></h2>
                 <p class="contact-description">
                     Have questions about our services? Our team of verification experts is ready to help you find the right solution for your organization.
                 </p>

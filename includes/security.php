@@ -2,7 +2,7 @@
     <div class="container">
         <div class="security-content">
             <div class="text-content">
-                <h2 class="security-title">Your Data Security is Our Priority</h2>
+                <h2 class="security-title">Your Data Security is<br><span>Our Priority</span></h2>
                 <p class="security-description">
                     We understand the sensitive nature of background verification data. That's why we've built our platform with enterprise-grade security at its core.
                 </p>
